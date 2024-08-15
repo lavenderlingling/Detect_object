@@ -1,4 +1,4 @@
-# Detect_object
+# Detecting objects combined with robotic arms | 偵測物件結合機器手臂
 ## Description | 介紹
 設計 All in one 整合程式，在 \yolov8 底下執行 python all_in_one.py，藉由此單一程式可以完成所有訓練的工作。並結合攝像頭測試結果。
 
